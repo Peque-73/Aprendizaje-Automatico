@@ -3,12 +3,12 @@ Repositorio para la clase de aprendizaje automatico de la maestría en ciencia d
 
 Tarea 1:
 
-- [Practica1](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Practicas/Practica2/Practica2.ipynb)
+- [Practica1](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Practicas/Practica1/Practica1.ipynb)
 - [Reporte1](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Reportes/Reporte1.pdf)
 
 Tarea 2:
 
-- [Practica2](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Practicas/Practica1/Practica1.ipynb)
+- [Practica2](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Practicas/Practica2/Practica2.ipynb)
 - [Reporte2](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Reportes/Reporte2.pdf)
 
 Tarea 3:
