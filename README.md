@@ -21,3 +21,8 @@ Tarea 4:
 - [Practica4](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Practicas/Practica4/Practica4.ipynb)
 - [Reporte4](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Reportes/Reporte4.pdf)
 
+PIA:
+
+- [Código PIA](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Practicas/PIA/PIA%20Aprendizaje%20Automatico.ipynb)
+- [Reporte PIA](https://github.com/Peque-73/Aprendizaje-Automatico/blob/main/Reportes/PIA%20Aprendizaje%20Automatico.pdf)
+
